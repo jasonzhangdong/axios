@@ -198,3 +198,13 @@
  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
 [2017-07-03 14:53:53.733] [INFO] access - anonymous@::1 GET /user  
  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 15:48:45.263] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 15:48:51.932] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 15:48:54.237] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 15:49:00.618] [INFO] access - anonymous@::ffff:127.0.0.1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 15:49:36.303] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
