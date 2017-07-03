@@ -1,0 +1,287 @@
+[2017-06-26 09:14:01.086] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 09:14:01.092] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 09:14:33.609] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-06-26 09:14:42.891] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:14:53.620] [ERROR] app - 500 ReferenceError: app is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:35:8)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:14:53.874] [ERROR] app - 500 ReferenceError: app is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:35:8)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:14:54.033] [ERROR] app - 500 ReferenceError: app is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:35:8)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:14:54.207] [ERROR] app - 500 ReferenceError: app is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:35:8)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:14:54.368] [ERROR] app - 500 ReferenceError: app is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:35:8)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:14:57.299] [ERROR] app - 500 ReferenceError: app is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:35:8)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:14:57.896] [ERROR] app - 500 ReferenceError: app is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:35:8)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:16:04.422] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 09:16:04.427] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 09:16:08.466] [ERROR] app - 500 ReferenceError: token is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:39:14)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:16:09.260] [ERROR] app - 500 ReferenceError: token is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:39:14)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:16:10.099] [ERROR] app - 500 ReferenceError: token is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:39:14)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:16:10.458] [ERROR] app - 500 ReferenceError: token is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:39:14)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:16:12.408] [ERROR] app - 500 ReferenceError: token is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:39:14)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:16:12.644] [ERROR] app - 500 ReferenceError: token is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:39:14)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:16:14.328] [ERROR] app - 500 ReferenceError: token is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:39:14)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:27:42.490] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 09:27:42.497] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 09:29:21.573] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 09:29:21.577] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 09:29:22.520] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 09:29:22.524] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 09:29:28.256] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:29:31.073] [ERROR] app - 500 ReferenceError: user is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:41:13)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:30:01.675] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 09:30:01.681] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 09:30:02.587] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 09:30:02.592] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 09:38:00.166] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 09:38:00.171] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 09:45:59.510] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 09:45:59.514] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 09:46:05.139] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 09:46:05.143] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 09:47:13.393] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:49:11.794] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:49:42.104] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:50:09.172] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:52:29.147] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:52:34.456] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:52:42.826] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:52:54.718] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:53:17.630] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:56:48.713] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:59:30.603] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 09:59:30.608] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 10:05:52.813] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 10:07:02.921] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 10:07:02.926] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 10:07:24.016] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 10:07:24.020] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 10:07:29.845] [ERROR] app - 404: /token
+[2017-06-26 10:07:50.703] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 10:07:50.708] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 10:09:11.352] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 10:09:11.357] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 10:09:15.601] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 10:09:52.636] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 10:09:52.642] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 10:10:48.690] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 10:10:48.694] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 10:10:49.496] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 10:10:49.503] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 11:40:55.297] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 11:40:55.304] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 11:49:54.755] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 11:49:54.761] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 11:56:32.746] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 11:56:32.750] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 11:57:02.980] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 11:57:06.653] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 11:57:06.658] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 11:59:26.324] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 11:59:26.329] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 11:59:31.244] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 11:59:31.252] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 11:59:43.284] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 11:59:43.288] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 11:59:53.041] [ERROR] app - 500 ReferenceError: decode is not defined
+    at jwtcode (/Users/apple/Desktop/axios/axiosdemo/server/middlewares/jwtauth.js:10:33)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 12:00:05.433] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 12:00:05.437] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 12:00:25.769] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 12:00:25.776] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 12:01:29.867] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 12:01:29.872] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 12:01:39.646] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 12:01:39.653] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 12:01:43.720] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 12:01:43.725] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 12:03:41.004] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 12:03:41.011] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 12:03:43.498] [ERROR] app - 500 TypeError: Cannot read property 'token' of undefined
+    at jwtcode (/Users/apple/Desktop/axios/axiosdemo/server/middlewares/jwtauth.js:12:21)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 12:03:51.911] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 12:03:51.916] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 12:07:20.668] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 12:07:20.673] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 15:25:17.617] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 15:25:24.409] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 15:25:35.538] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 16:08:11.650] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 16:08:11.655] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 16:08:24.404] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 16:08:45.975] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 16:11:51.524] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 16:11:51.530] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 16:12:48.218] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 16:20:30.959] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-26 16:20:30.967] [INFO] app - App (production) is now running on port 4444!
+[2017-06-26 16:57:19.235] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 16:57:25.180] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 17:01:35.594] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 17:01:52.985] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 17:01:55.877] [ERROR] app - 404: /dashboard/antd.min.css.map

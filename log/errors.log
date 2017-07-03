@@ -1,0 +1,615 @@
+[2017-06-19 11:18:08.120] [ERROR] app - 404: /
+[2017-06-19 11:18:08.406] [ERROR] app - 404: /favicon.ico
+[2017-06-19 11:27:22.722] [ERROR] app - 500 Error: ENOENT: no such file or directory, open '/Users/apple/Desktop/axios/axiosdemo/views/layouts/portal.html'
+[2017-06-19 11:29:03.869] [ERROR] app - 500 Error: ENOENT: no such file or directory, open '/Users/apple/Desktop/axios/axiosdemo/views/layouts/portal.html'
+[2017-06-19 11:30:04.416] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:30:04.529] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-19 11:30:05.057] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-19 11:30:05.300] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-06-19 11:30:28.670] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:30:28.767] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-19 11:30:36.211] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:30:36.311] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-19 11:30:38.966] [ERROR] app - 404: /myhome/engineering
+[2017-06-19 11:30:49.982] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:30:50.035] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-19 11:30:50.130] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-19 11:32:07.504] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:32:07.562] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-19 11:32:07.638] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-19 11:32:09.138] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:32:09.203] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-19 11:32:25.555] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:32:25.613] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-19 11:32:25.713] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-19 11:33:00.466] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:33:09.615] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:35:37.330] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:35:40.003] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:35:46.613] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:36:07.719] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:37:01.831] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:37:03.689] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:37:04.529] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:41:04.612] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:42:54.354] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:42:55.907] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:43:22.908] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:44:32.511] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:44:32.590] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-19 11:44:32.696] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-19 11:44:45.696] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:47:37.417] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:47:55.840] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:47:58.225] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:47:58.996] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:47:59.964] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:48:11.930] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:48:13.287] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:48:14.107] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:48:21.697] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:48:23.228] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:48:31.285] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-19 11:57:49.466] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 11:57:55.410] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 11:58:29.303] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 11:58:50.887] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 11:58:56.107] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 12:02:34.841] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 12:02:37.583] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 12:02:57.203] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 12:03:00.796] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 12:03:22.580] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 12:28:57.337] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 12:49:49.279] [ERROR] app - 404: /e15ff637151e7c9b6077.hot-update.json
+[2017-06-19 12:49:58.179] [ERROR] app - 404: /myhome/engineering
+[2017-06-19 13:05:10.862] [ERROR] app - 404: /cb8cc76abb3495ebf78a.hot-update.json
+[2017-06-19 13:42:45.626] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 13:42:55.698] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 13:43:03.706] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 13:43:18.398] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 13:46:39.179] [ERROR] app - 404: /ae5032977d04f2a638cc.hot-update.json
+[2017-06-19 13:46:40.150] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 13:46:42.610] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:02:10.295] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:02:34.560] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:02:53.456] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:03:15.734] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:04:17.966] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:04:20.652] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:04:42.301] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:04:50.515] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:05:09.235] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:05:15.842] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:05:41.314] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:06:00.428] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:06:07.519] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:06:22.838] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:07:13.548] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:07:35.522] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:07:43.945] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:08:00.698] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:08:06.580] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:08:17.227] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:11:03.904] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:11:24.549] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:11:39.123] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:11:51.648] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:15:57.066] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:17:45.296] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:19:17.456] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:19:44.690] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:21:40.434] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:22:34.220] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:26:05.760] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:27:58.832] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:33:05.398] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:33:08.873] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:53:36.966] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 14:55:08.979] [ERROR] app - 404: /axiospost
+[2017-06-19 14:58:09.604] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 15:00:12.314] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 15:00:42.763] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 15:01:12.376] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 15:01:31.818] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 15:02:43.071] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 15:13:12.015] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 15:17:02.642] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 15:51:40.605] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 15:51:46.192] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 15:55:01.039] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 15:56:44.175] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 15:57:23.349] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 15:58:04.659] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:01:39.298] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:01:59.090] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:02:43.077] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:02:58.367] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:07:13.614] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:07:30.564] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:07:58.139] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:10:16.521] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:15:26.480] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:16:45.722] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:17:20.564] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:17:46.509] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:19:53.915] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:20:07.602] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:21:35.896] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:23:20.409] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:23:43.386] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:24:00.835] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:24:10.341] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:26:11.118] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:28:34.285] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:33:27.225] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:35:41.066] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:50:57.295] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:53:27.685] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:53:53.246] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:54:04.617] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:54:10.214] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:55:35.790] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:55:57.500] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:56:18.570] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:56:35.114] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:56:37.939] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:56:42.724] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:57:00.691] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:57:15.097] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:57:25.270] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 16:59:53.837] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:00:51.161] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:09:16.666] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:09:35.426] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:10:41.912] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:11:39.137] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:12:27.558] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:12:56.639] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:21:06.407] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:21:56.936] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:22:01.554] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:22:12.281] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:24:22.872] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:24:25.767] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:25:17.013] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:25:46.287] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:26:40.492] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:27:43.952] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:28:28.132] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:29:26.259] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:29:29.508] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:30:01.974] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:31:29.958] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:31:36.657] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:31:57.436] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:32:16.983] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:32:35.263] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:42:03.067] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:43:17.203] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:43:20.439] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:44:18.133] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:44:44.871] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:45:28.374] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:46:05.743] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:47:18.167] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:48:47.010] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:48:53.050] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:49:36.777] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-19 17:51:37.717] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:00:12.885] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-06-20 09:00:18.041] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:30:34.383] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:43:26.417] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:43:51.602] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:44:02.592] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:44:40.221] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:45:08.881] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:45:21.357] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:45:28.576] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:46:04.060] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:46:22.272] [ERROR] app - 404: /6fbceb69ce40f55e9d5d.hot-update.json
+[2017-06-20 09:46:22.994] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:46:41.506] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:47:09.550] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:47:19.124] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:47:33.790] [ERROR] app - 404: /f7b30e0adf9987fa3d3f.hot-update.json
+[2017-06-20 09:47:34.276] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:52:02.334] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:52:06.053] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 09:57:06.180] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:00:51.537] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:02:13.060] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:02:29.213] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:06:44.581] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:08:43.311] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:09:33.542] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:18:48.778] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:21:19.192] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:21:24.359] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:21:27.228] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:30:57.335] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:32:48.710] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:33:19.138] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:34:02.150] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:35:45.410] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:35:53.769] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:36:06.181] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:36:08.113] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:36:54.880] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:38:09.920] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:38:32.196] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:38:40.528] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:38:45.206] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:38:47.137] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:40:58.573] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:41:12.880] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:41:32.250] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:41:37.622] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:41:41.870] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 10:42:00.280] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 14:20:46.867] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 14:20:50.797] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 14:20:55.468] [ERROR] app - 404: /4d405497d6a26c7397b9.hot-update.json
+[2017-06-20 14:20:56.703] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 14:23:52.742] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 14:24:15.812] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 14:25:04.214] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 14:51:55.084] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 14:51:59.219] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 14:52:14.062] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 15:37:36.856] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 15:38:02.087] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 15:38:13.922] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-20 15:42:51.269] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-25 10:36:43.710] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-25 10:36:43.795] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-25 10:36:44.131] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-06-25 10:36:49.355] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-25 10:36:49.426] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-25 10:37:20.352] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-06-25 10:37:24.559] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:14:33.609] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-06-26 09:14:42.891] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:14:53.620] [ERROR] app - 500 ReferenceError: app is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:35:8)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:14:53.874] [ERROR] app - 500 ReferenceError: app is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:35:8)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:14:54.033] [ERROR] app - 500 ReferenceError: app is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:35:8)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:14:54.207] [ERROR] app - 500 ReferenceError: app is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:35:8)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:14:54.368] [ERROR] app - 500 ReferenceError: app is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:35:8)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:14:57.299] [ERROR] app - 500 ReferenceError: app is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:35:8)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:14:57.896] [ERROR] app - 500 ReferenceError: app is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:35:8)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:16:08.466] [ERROR] app - 500 ReferenceError: token is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:39:14)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:16:09.260] [ERROR] app - 500 ReferenceError: token is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:39:14)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:16:10.099] [ERROR] app - 500 ReferenceError: token is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:39:14)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:16:10.458] [ERROR] app - 500 ReferenceError: token is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:39:14)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:16:12.408] [ERROR] app - 500 ReferenceError: token is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:39:14)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:16:12.644] [ERROR] app - 500 ReferenceError: token is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:39:14)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:16:14.328] [ERROR] app - 500 ReferenceError: token is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:39:14)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:29:28.256] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:29:31.073] [ERROR] app - 500 ReferenceError: user is not defined
+    at axiospost (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:41:13)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 09:47:13.393] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:49:11.794] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:49:42.104] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:50:09.172] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:52:29.147] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:52:34.456] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:52:42.826] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:52:54.718] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:53:17.630] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 09:56:48.713] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 10:05:52.813] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 10:07:29.845] [ERROR] app - 404: /token
+[2017-06-26 10:09:15.601] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 11:57:02.980] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 11:59:53.041] [ERROR] app - 500 ReferenceError: decode is not defined
+    at jwtcode (/Users/apple/Desktop/axios/axiosdemo/server/middlewares/jwtauth.js:10:33)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 12:03:43.498] [ERROR] app - 500 TypeError: Cannot read property 'token' of undefined
+    at jwtcode (/Users/apple/Desktop/axios/axiosdemo/server/middlewares/jwtauth.js:12:21)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:47:12)
+[2017-06-26 15:25:17.617] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 15:25:24.409] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 15:25:35.538] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 16:08:24.404] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 16:08:45.975] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 16:12:48.218] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 16:57:19.235] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 16:57:25.180] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 17:01:35.594] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 17:01:52.985] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-26 17:01:55.877] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-29 09:31:03.671] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-06-29 09:31:07.712] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-29 09:31:22.015] [ERROR] app - 500 Error: No token supplied
+    at Object.jwt_decode [as decode] (/Users/apple/Desktop/axios/axiosdemo/node_modules/jwt-simple/lib/jwt.js:61:11)
+    at jwtcode (/Users/apple/Desktop/axios/axiosdemo/server/middlewares/jwtauth.js:8:27)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:174:3)
+[2017-06-29 09:37:21.143] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-29 09:37:28.152] [ERROR] app - 500 Error: Failed to lookup view "user" in views directory "/Users/apple/Desktop/axios/axiosdemo/views"
+    at Function.render (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/application.js:580:17)
+    at ServerResponse.render (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/response.js:971:7)
+    at getuser (/Users/apple/Desktop/axios/axiosdemo/server/bl/dashboard.js:21:16)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/apple/Desktop/axios/axiosdemo/node_modules/express/lib/router/index.js:275:10)
+[2017-06-29 09:38:35.658] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-29 09:44:11.370] [ERROR] app - 404: /user/bundle.css
+[2017-06-29 09:44:11.371] [ERROR] app - 404: /user/bundle.js
+[2017-06-29 09:44:11.654] [ERROR] app - 404: /user/bundle.js
+[2017-06-29 09:44:43.445] [ERROR] app - 404: /user/bundle.css
+[2017-06-29 09:44:43.509] [ERROR] app - 404: /user/bundle.js
+[2017-06-29 09:44:43.748] [ERROR] app - 404: /user/bundle.js
+[2017-06-29 09:44:45.057] [ERROR] app - 404: /user/bundle.css
+[2017-06-29 09:44:45.110] [ERROR] app - 404: /user/bundle.js
+[2017-06-29 09:44:45.306] [ERROR] app - 404: /user/bundle.js
+[2017-06-29 09:44:57.776] [ERROR] app - 404: /user/bundle.css
+[2017-06-29 09:44:57.843] [ERROR] app - 404: /user/bundle.js
+[2017-06-29 09:44:57.996] [ERROR] app - 404: /user/bundle.js
+[2017-06-29 09:46:40.968] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-29 09:46:41.065] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-29 09:46:41.221] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-29 09:48:51.807] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-29 09:48:59.298] [ERROR] app - 404: /user/antd.min.css.map
+[2017-06-29 09:51:30.310] [ERROR] app - 404: /user/antd.min.css.map
+[2017-06-29 09:51:40.304] [ERROR] app - 404: /user/antd.min.css.map
+[2017-06-29 09:51:47.081] [ERROR] app - 404: /user/antd.min.css.map
+[2017-06-29 09:51:53.270] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-29 09:51:58.448] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-29 09:54:03.281] [ERROR] app - 404: /user/antd.min.css.map
+[2017-06-29 09:55:27.280] [ERROR] app - 404: /user/bundle.css
+[2017-06-29 09:55:31.723] [ERROR] app - 404: /user/bundle.css
+[2017-06-29 09:56:28.295] [ERROR] app - 404: /user/bundle.css
+[2017-06-29 09:56:52.739] [ERROR] app - 404: /5139a4f56084f8eaf521.hot-update.json
+[2017-06-29 09:56:58.924] [ERROR] app - 404: /user/bundle.css
+[2017-06-29 10:16:56.687] [ERROR] app - 404: /peoper/bundle.css
+[2017-06-29 10:16:56.813] [ERROR] app - 404: /peoper/bundle.js
+[2017-06-29 11:07:36.050] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-29 11:07:36.102] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-29 11:07:36.415] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-29 11:07:36.646] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-06-29 11:07:44.251] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-29 11:07:44.289] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-29 11:07:44.528] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-29 11:07:50.447] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-29 11:07:50.503] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-29 11:07:50.713] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-29 11:07:51.891] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-29 11:07:51.945] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-29 11:07:52.137] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-29 11:14:05.838] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-06-29 12:57:08.642] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-06-30 18:15:41.380] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-30 18:15:41.566] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-30 18:15:41.837] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-30 18:15:41.948] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-07-03 09:40:51.232] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:40:51.318] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:40:51.555] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:40:51.705] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-07-03 09:42:30.114] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:42:30.165] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:42:30.420] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:42:33.177] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:42:33.263] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:42:55.467] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:42:55.560] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:42:55.769] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:43:14.867] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:43:14.945] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:43:15.181] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:43:18.114] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:43:18.221] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:43:18.397] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:50:46.955] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:50:47.029] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:50:47.253] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:50:50.087] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:50:50.151] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:50:50.328] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:51:20.808] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:51:20.867] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:51:21.091] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:51:24.273] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:51:24.374] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:51:24.513] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 10:01:29.204] [ERROR] app - 404: /vendor.dll.js
+[2017-07-03 10:01:29.596] [ERROR] app - 404: /vendor.dll.js
+[2017-07-03 10:32:07.749] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-07-03 10:32:23.499] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 10:32:23.581] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 10:32:23.787] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 10:32:23.902] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-07-03 10:32:50.033] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 10:32:50.073] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 10:32:50.309] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 10:32:58.315] [ERROR] app - 404: /user
+[2017-07-03 10:33:01.947] [ERROR] app - 404: /user
+[2017-07-03 13:03:20.941] [ERROR] app - 404: /user
+[2017-07-03 14:11:55.179] [ERROR] app - 404: /user
+[2017-07-03 14:12:01.011] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 14:12:01.052] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 14:12:01.284] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 14:16:47.555] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 14:16:47.592] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 14:16:47.817] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 14:53:15.087] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 14:53:15.214] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 14:53:15.456] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 14:53:15.615] [ERROR] app - 404: /assets/img/favicon.ico

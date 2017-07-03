@@ -1,0 +1,42 @@
+[2017-06-25 10:36:43.603] [INFO] access - anonymous@::1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:36:43.710] [INFO] access - anonymous@::1 GET /dashboard/bundle.css http://localhost:4444/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:36:43.794] [INFO] access - anonymous@::1 GET /dashboard/bundle.js http://localhost:4444/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:36:44.131] [INFO] access - anonymous@::1 GET /assets/img/favicon.ico http://localhost:4444/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:36:49.290] [INFO] access - anonymous@::1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:36:49.354] [INFO] access - anonymous@::1 GET /dashboard/bundle.css http://localhost:4444/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:36:49.426] [INFO] access - anonymous@::1 GET /dashboard/bundle.js http://localhost:4444/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:37:19.583] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:37:20.352] [INFO] access - anonymous@::ffff:127.0.0.1 GET /assets/img/favicon.ico http://localhost:3051/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:37:24.559] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/antd.min.css.map  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:37:28.023] [INFO] access - anonymous@::ffff:127.0.0.1 POST /axiospost http://localhost:3051/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:37:29.573] [INFO] access - anonymous@::ffff:127.0.0.1 POST /axiospost http://localhost:3051/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:37:29.580] [INFO] access - anonymous@::ffff:127.0.0.1 GET /getdata?id=12345&name=zhangdongsheng&age=22 http://localhost:3051/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:37:30.861] [INFO] access - anonymous@::ffff:127.0.0.1 POST /axiospost http://localhost:3051/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:37:33.548] [INFO] access - anonymous@::ffff:127.0.0.1 POST /axiospost http://localhost:3051/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:38:13.691] [INFO] access - anonymous@::ffff:127.0.0.1 POST /axiospost http://localhost:3051/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:38:15.194] [INFO] access - anonymous@::ffff:127.0.0.1 POST /axiospost http://localhost:3051/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:38:15.822] [INFO] access - anonymous@::ffff:127.0.0.1 POST /axiospost http://localhost:3051/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:38:16.289] [INFO] access - anonymous@::ffff:127.0.0.1 POST /axiospost http://localhost:3051/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:38:16.696] [INFO] access - anonymous@::ffff:127.0.0.1 POST /axiospost http://localhost:3051/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+[2017-06-25 10:38:17.107] [INFO] access - anonymous@::ffff:127.0.0.1 POST /axiospost http://localhost:3051/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36

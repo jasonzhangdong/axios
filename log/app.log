@@ -1,0 +1,104 @@
+[2017-07-03 09:40:33.924] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 09:40:33.933] [INFO] app - App (production) is now running on port 4000!
+[2017-07-03 09:40:51.232] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:40:51.318] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:40:51.555] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:40:51.705] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-07-03 09:42:22.341] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 09:42:22.350] [INFO] app - App (production) is now running on port 4000!
+[2017-07-03 09:42:30.114] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:42:30.165] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:42:30.420] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:42:33.177] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:42:33.263] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:42:55.467] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:42:55.560] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:42:55.769] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:43:02.903] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 09:43:02.911] [INFO] app - App (production) is now running on port 4000!
+[2017-07-03 09:43:14.867] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:43:14.945] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:43:15.181] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:43:18.114] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:43:18.221] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:43:18.397] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:50:43.252] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 09:50:43.260] [INFO] app - App (production) is now running on port 4000!
+[2017-07-03 09:50:46.955] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:50:47.029] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:50:47.253] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:50:50.087] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:50:50.151] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:50:50.328] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:51:17.223] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 09:51:17.232] [INFO] app - App (production) is now running on port 4000!
+[2017-07-03 09:51:20.808] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:51:20.867] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:51:21.091] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:51:24.273] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 09:51:24.374] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:51:24.513] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 09:53:16.322] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 09:53:16.331] [INFO] app - App (production) is now running on port 4000!
+[2017-07-03 10:01:29.204] [ERROR] app - 404: /vendor.dll.js
+[2017-07-03 10:01:29.596] [ERROR] app - 404: /vendor.dll.js
+[2017-07-03 10:04:46.135] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 10:04:46.145] [INFO] app - App (production) is now running on port 4000!
+[2017-07-03 10:16:08.739] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 10:16:08.748] [INFO] app - App (production) is now running on port 4000!
+[2017-07-03 10:23:01.597] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 10:23:01.606] [INFO] app - App (production) is now running on port 4000!
+[2017-07-03 10:23:26.591] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 10:23:26.600] [INFO] app - App (production) is now running on port 4000!
+[2017-07-03 10:23:28.755] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 10:23:28.764] [INFO] app - App (production) is now running on port 4000!
+[2017-07-03 10:31:00.992] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 10:31:01.002] [INFO] app - App (production) is now running on port 4000!
+[2017-07-03 10:31:15.723] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 10:31:15.732] [INFO] app - App (production) is now running on port 4009!
+[2017-07-03 10:31:53.006] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 10:31:53.015] [INFO] app - App (production) is now running on port 4009!
+[2017-07-03 10:32:07.749] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-07-03 10:32:23.499] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 10:32:23.581] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 10:32:23.787] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 10:32:23.902] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-07-03 10:32:42.294] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 10:32:42.303] [INFO] app - App (production) is now running on port 4009!
+[2017-07-03 10:32:44.492] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 10:32:44.502] [INFO] app - App (production) is now running on port 4009!
+[2017-07-03 10:32:50.033] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 10:32:50.073] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 10:32:50.309] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 10:32:58.315] [ERROR] app - 404: /user
+[2017-07-03 10:33:01.947] [ERROR] app - 404: /user
+[2017-07-03 13:03:20.941] [ERROR] app - 404: /user
+[2017-07-03 14:11:55.179] [ERROR] app - 404: /user
+[2017-07-03 14:12:01.011] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 14:12:01.052] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 14:12:01.284] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 14:13:23.455] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 14:13:23.466] [INFO] app - App (production) is now running on port 4009!
+[2017-07-03 14:14:35.728] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 14:14:35.744] [INFO] app - App (production) is now running on port 4009!
+[2017-07-03 14:15:59.525] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 14:15:59.538] [INFO] app - App (production) is now running on port 4009!
+[2017-07-03 14:16:08.159] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 14:16:08.170] [INFO] app - App (production) is now running on port 4009!
+[2017-07-03 14:16:27.518] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 14:16:27.528] [INFO] app - App (production) is now running on port 4009!
+[2017-07-03 14:16:47.555] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 14:16:47.592] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 14:16:47.817] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 14:18:14.748] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 14:18:14.778] [INFO] app - App (production) is now running on port 4009!
+[2017-07-03 14:20:11.010] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 14:20:11.020] [INFO] app - App (production) is now running on port 4444!
+[2017-07-03 14:20:23.902] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 14:20:23.912] [INFO] app - App (production) is now running on port 4444!
+[2017-07-03 14:53:02.529] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-07-03 14:53:02.541] [INFO] app - App (production) is now running on port 4444!
+[2017-07-03 14:53:15.087] [ERROR] app - 404: /dashboard/bundle.css
+[2017-07-03 14:53:15.214] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 14:53:15.456] [ERROR] app - 404: /dashboard/bundle.js
+[2017-07-03 14:53:15.615] [ERROR] app - 404: /assets/img/favicon.ico

@@ -1,0 +1,200 @@
+[2017-07-03 09:40:50.992] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:40:51.231] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.css http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:40:51.318] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:40:51.555] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:40:51.705] [INFO] access - anonymous@::ffff:127.0.0.1 GET /assets/img/favicon.ico http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:42:29.986] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:42:30.110] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.css http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:42:30.164] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:42:30.419] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:42:33.064] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:42:33.176] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.css http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:42:33.263] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:42:55.375] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:42:55.467] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.css http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:42:55.554] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:42:55.769] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:43:14.756] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:43:14.867] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.css http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:43:14.945] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:43:15.181] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:43:18.016] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:43:18.113] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.css http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:43:18.220] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:43:18.397] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:50:46.846] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:50:46.954] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.css http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:50:47.029] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:50:47.253] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:50:50.012] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:50:50.086] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.css http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:50:50.151] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:50:50.328] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:51:20.707] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:51:20.807] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.css http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:51:20.866] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:51:21.091] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:51:24.159] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:51:24.272] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.css http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:51:24.374] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:51:24.512] [INFO] access - anonymous@::ffff:127.0.0.1 GET /dashboard/bundle.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:53:23.781] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:53:26.892] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 09:53:29.969] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:01:29.036] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:01:29.201] [INFO] access - anonymous@::ffff:127.0.0.1 GET /vendor.dll.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:01:29.596] [INFO] access - anonymous@::ffff:127.0.0.1 GET /vendor.dll.js http://localhost:3000/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:04:51.836] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:04:55.690] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:04:57.872] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:16:13.616] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:16:21.390] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:16:34.697] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:16:37.683] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:21:22.501] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:23:04.779] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:23:19.637] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:23:32.347] [INFO] access - anonymous@::ffff:127.0.0.1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:28:22.092] [INFO] access - anonymous@::ffff:127.0.0.1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:28:27.155] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:29:40.592] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:32:06.978] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:32:07.749] [INFO] access - anonymous@::ffff:127.0.0.1 GET /assets/img/favicon.ico http://localhost:3009/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:32:11.788] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:32:16.288] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:32:23.413] [INFO] access - anonymous@::1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:32:23.498] [INFO] access - anonymous@::1 GET /dashboard/bundle.css http://localhost:4009/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:32:23.580] [INFO] access - anonymous@::1 GET /dashboard/bundle.js http://localhost:4009/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:32:23.786] [INFO] access - anonymous@::1 GET /dashboard/bundle.js http://localhost:4009/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:32:23.902] [INFO] access - anonymous@::1 GET /assets/img/favicon.ico http://localhost:4009/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:32:30.186] [INFO] access - anonymous@::1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:32:49.932] [INFO] access - anonymous@::1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:32:50.032] [INFO] access - anonymous@::1 GET /dashboard/bundle.css http://localhost:4009/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:32:50.072] [INFO] access - anonymous@::1 GET /dashboard/bundle.js http://localhost:4009/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:32:50.309] [INFO] access - anonymous@::1 GET /dashboard/bundle.js http://localhost:4009/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:32:58.314] [INFO] access - anonymous@::1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 10:33:01.947] [INFO] access - anonymous@::1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 13:03:20.940] [INFO] access - anonymous@::1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:11:55.177] [INFO] access - anonymous@::1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:12:00.896] [INFO] access - anonymous@::1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:12:01.010] [INFO] access - anonymous@::1 GET /dashboard/bundle.css http://localhost:4009/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:12:01.052] [INFO] access - anonymous@::1 GET /dashboard/bundle.js http://localhost:4009/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:12:01.284] [INFO] access - anonymous@::1 GET /dashboard/bundle.js http://localhost:4009/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:14:41.614] [INFO] access - anonymous@::1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:15:10.708] [INFO] access - anonymous@::ffff:127.0.0.1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:15:20.899] [INFO] access - anonymous@::1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:16:34.452] [INFO] access - anonymous@::1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:16:36.031] [INFO] access - anonymous@::1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:16:39.864] [INFO] access - anonymous@::ffff:127.0.0.1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:16:43.853] [INFO] access - anonymous@::1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:16:47.408] [INFO] access - anonymous@::1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:16:47.554] [INFO] access - anonymous@::1 GET /dashboard/bundle.css http://localhost:4009/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:16:47.591] [INFO] access - anonymous@::1 GET /dashboard/bundle.js http://localhost:4009/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:16:47.816] [INFO] access - anonymous@::1 GET /dashboard/bundle.js http://localhost:4009/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:16:53.346] [INFO] access - anonymous@::ffff:127.0.0.1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:53:14.978] [INFO] access - anonymous@::1 GET /  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:53:15.086] [INFO] access - anonymous@::1 GET /dashboard/bundle.css http://localhost:4444/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:53:15.213] [INFO] access - anonymous@::1 GET /dashboard/bundle.js http://localhost:4444/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:53:15.456] [INFO] access - anonymous@::1 GET /dashboard/bundle.js http://localhost:4444/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:53:15.614] [INFO] access - anonymous@::1 GET /assets/img/favicon.ico http://localhost:4444/ 
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+[2017-07-03 14:53:53.733] [INFO] access - anonymous@::1 GET /user  
+ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36

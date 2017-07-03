@@ -1,0 +1,6 @@
+[2017-06-30 18:15:06.844] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-30 18:15:06.852] [INFO] app - App (production) is now running on port 4000!
+[2017-06-30 18:15:41.380] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-30 18:15:41.566] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-30 18:15:41.837] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-30 18:15:41.948] [ERROR] app - 404: /assets/img/favicon.ico

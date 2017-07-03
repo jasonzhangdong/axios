@@ -1,0 +1,17 @@
+[2017-06-25 10:36:03.326] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-25 10:36:03.331] [INFO] app - App (production) is now running on port 4444!
+[2017-06-25 10:36:43.710] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-25 10:36:43.795] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-25 10:36:44.131] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-06-25 10:36:49.355] [ERROR] app - 404: /dashboard/bundle.css
+[2017-06-25 10:36:49.426] [ERROR] app - 404: /dashboard/bundle.js
+[2017-06-25 10:37:20.352] [ERROR] app - 404: /assets/img/favicon.ico
+[2017-06-25 10:37:24.559] [ERROR] app - 404: /dashboard/antd.min.css.map
+[2017-06-25 10:39:47.978] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-25 10:39:47.982] [INFO] app - App (production) is now running on port 4444!
+[2017-06-25 10:41:56.450] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-25 10:41:56.454] [INFO] app - App (production) is now running on port 4444!
+[2017-06-25 10:42:06.577] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-25 10:42:06.581] [INFO] app - App (production) is now running on port 4444!
+[2017-06-25 10:45:46.054] [INFO] app - Ready for LCPSP-GCJL service ...
+[2017-06-25 10:45:46.058] [INFO] app - App (production) is now running on port 4444!
