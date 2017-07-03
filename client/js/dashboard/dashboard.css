@@ -1,0 +1,11 @@
+#demo-mount .icp-selector {
+  width: 60px;
+}
+.ant-btn-primary {
+    color: #fff;
+    background-color: #108ee9;
+    border-color: #108ee9;
+    margin: 20px;
+    height: 50px;
+    font-size: 30px;
+}

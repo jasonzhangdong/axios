@@ -13,7 +13,7 @@ export default {
     );
   },
   user(req,res,next){
-    res.json('abc');
+    res.json({'name':'jason','age':35});
   }
 };
 

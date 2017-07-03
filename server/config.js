@@ -12,7 +12,7 @@ module.exports = {
 	redis_host: '127.0.0.1',
 	redis_port: 6379,
 	redis_db: 8,
-	isDedv: false,
+	isDedv: true,
 	jwt_token_secret: 'Surrender-Omar',
 	jwt_token_expire_days: 7,
 }
